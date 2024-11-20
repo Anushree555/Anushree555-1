@@ -25,4 +25,4 @@ result1=sum_of_three_numbers_default(num1,num2,num3)
 print(result1)
 
 result2 = sum_of_three_numbers_default()
-print(result2)
+print("RESULT is ---",result2)
